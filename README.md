@@ -1,15 +1,5 @@
 # git215_setup
 Author ## Charles Mavaro
-<<<<<<< HEAD
-
-
-	background-color: var(--green);
-	font-style: italic;
-	text-align: center;
-=======
->>>>>>> 0699b382b1008ddaed83bd2bb46f2c3704829dba
-<html lang="en">
-
 <head>
 	<meta charset="utf-8">
 	<meta name="author" content="Prof. Barnett">
