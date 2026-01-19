@@ -1,5 +1,8 @@
 # git215_setup
+
 Author ## Charles Mavaro
+
+
 <head>
 	<meta charset="utf-8">
 	<meta name="author" content="Prof. Barnett">
