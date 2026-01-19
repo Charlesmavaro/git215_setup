@@ -1,9 +1,5 @@
 # git215_setup
 Author ## Charles Mavaro
-
-
-	
-}<!doctype html>
 <html lang="en">
 
 <head>
