@@ -2,9 +2,7 @@
 Author ## Charles Mavaro
 
 
-	background-color: var(--green);
-	font-style: italic;
-	text-align: center;
+	
 }<!doctype html>
 <html lang="en">
 
